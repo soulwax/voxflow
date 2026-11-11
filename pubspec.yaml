@@ -1,0 +1,12 @@
+name: voxflow
+description: Pure Dart typed visual node graph, memoized reactive dataflow evaluator, and Blueprint-style event/latent exec runtime.
+version: 0.1.0
+repository: https://github.com/soulwax/voxflow
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
