@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxflow logo"/>
+</p>
+
 # voxflow
 
 Pure Dart visual node graph, memoized reactive dataflow evaluator, and event-driven Blueprint exec runtime. Zero external runtime dependencies.
